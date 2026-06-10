@@ -1,4 +1,4 @@
-import{r as ny,g as iy,R as sy,a as N1,b as rt,j as Bt}from"./index.js";/**
+import{r as ny,g as iy,R as sy,a as N1,b as rt,j as Bt}from"./index.BOYCcT1V.js";/**
  * @license
  * Copyright 2010-2026 Three.js Authors
  * SPDX-License-Identifier: MIT
