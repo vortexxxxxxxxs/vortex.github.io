@@ -1,0 +1,23 @@
+{
+  "index.html": {
+    "file": "assets/index.OMZ166zs.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/components/VortexBackground.tsx"
+    ],
+    "css": [
+      "assets/index.CS1_vdHt.css"
+    ]
+  },
+  "src/components/VortexBackground.tsx": {
+    "file": "assets/VortexBackground.C54jYJZE.js",
+    "name": "VortexBackground",
+    "src": "src/components/VortexBackground.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  }
+}
